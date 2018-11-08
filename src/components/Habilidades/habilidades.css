@@ -1,0 +1,9 @@
+.card{
+    display: flex;
+    flex-direction: column;
+}
+
+#habilidades{
+    display: flex;
+    flex-direction: row;
+}
